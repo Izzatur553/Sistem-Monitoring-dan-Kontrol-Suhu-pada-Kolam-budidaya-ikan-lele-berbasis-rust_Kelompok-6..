@@ -1,0 +1,8 @@
+[package]
+name = "monitoring_suhu_kolam_lele"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kelompok ETS Algoritma dan Pemrograman Teknik Instrumentasi"]
+description = "Console application Rust untuk monitoring dan kontrol suhu kolam ikan lele"
+
+[dependencies]
